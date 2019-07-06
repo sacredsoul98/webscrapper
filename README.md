@@ -4,6 +4,6 @@
  requests
  urlib3
  
- I may have missed anything please check the program and install accordingly
+ If I missed anything please check the program and install accordingly
  
  Indorder to view the websites scraped You have to ownload the SQLITE browser.
